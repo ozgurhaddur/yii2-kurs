@@ -1,6 +1,6 @@
 <?php
 
-namespace backend\modules\kurs\models;
+namespace ozgurhaddur\kurs\models;
 
 use Yii;
 
