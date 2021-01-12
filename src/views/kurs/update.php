@@ -3,7 +3,7 @@
 use yii\helpers\Html;
 
 /* @var $this yii\web\View */
-/* @var $model backend\modules\kurs\models\Kurs */
+/* @var $model ozgurhaddur\kurs\models\Kurs */
 
 $this->title = 'Update Kurs: ' . $model->name;
 $this->params['breadcrumbs'][] = ['label' => 'Kurs', 'url' => ['index']];
