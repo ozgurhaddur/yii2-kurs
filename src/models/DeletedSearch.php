@@ -1,10 +1,10 @@
 <?php
 
-namespace backend\modules\kurs\models;
+namespace ozgurhaddur\kurs\models;
 
 use yii\base\Model;
 use yii\data\ActiveDataProvider;
-use backend\modules\kurs\models\Deleted;
+use ozgurhaddur\kurs\models\Deleted;
 
 /**
  * DeletedSearch represents the model behind the search form of `backend\modules\kurs\models\Kurs`.
