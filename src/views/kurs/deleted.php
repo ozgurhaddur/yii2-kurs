@@ -4,7 +4,7 @@ use yii\helpers\Html;
 use yii\grid\GridView;
 
 /* @var $this yii\web\View */
-/* @var $searchModel backend\modules\kurs\models\DeletedSearch */
+/* @var $searchModel ozgurhaddur\kurs\models\DeletedSearch */
 /* @var $dataProvider yii\data\ActiveDataProvider */
 
 $this->title = 'Deleted';
