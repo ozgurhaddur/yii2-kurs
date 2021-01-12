@@ -1,6 +1,6 @@
 <?php
 
-namespace backend\modules\kurs;
+namespace ozgurhaddur\kurs;
 
 class Module extends \yii\base\Module
 {
