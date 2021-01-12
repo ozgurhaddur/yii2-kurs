@@ -1,12 +1,12 @@
 <?php
 
-namespace backend\modules\kurs\controllers;
+namespace ozgurhaddur\kurs\controllers;
 
 use Yii;
-use backend\modules\kurs\models\Kurs;
-use backend\modules\kurs\models\KursSearch;
-use backend\modules\kurs\models\Deleted;
-use backend\modules\kurs\models\DeletedSearch;
+use ozgurhaddur\kurs\models\Kurs;
+use ozgurhaddur\kurs\models\KursSearch;
+use ozgurhaddur\kurs\models\Deleted;
+use ozgurhaddur\kurs\models\DeletedSearch;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;
