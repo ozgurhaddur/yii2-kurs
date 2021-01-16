@@ -38,6 +38,6 @@ http://advanced/backend/web/index.php?r=kurs/kurs/index adresinden modül anasay
 
 # Temel Modül Görseli
 ##### Temel olarak modül
-![kurs resmi]()
+![kurs resmi](https://github.com/ozgurhaddur/yii2-kurs/blob/master/Kurs.png)
 ###### Modülde kayıt işlemi
 ![kayıt resmi](https://github.com/ozgurhaddur/yii2-kurs/blob/master/Create%20Kurs.png)
