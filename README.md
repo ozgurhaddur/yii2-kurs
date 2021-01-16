@@ -41,6 +41,13 @@ Modül içerisinde iki adet tablo vardır.Tablolardan biri oluşturulan kursun k
 
 ![image](https://user-images.githubusercontent.com/73740709/104809633-afa47600-57ff-11eb-85c7-74328f761be8.png)
 
+### *Gii İşlemi*
+Her tablo için bir model oluşturulmuştur.
+Create,read,update,delete gibi tablo işlemlerini sağlamak amacıyla oluşturulan modeller üzerinde Model ve CRUD Generator işlemleri uygulanmıştır.
+Bu işlemler sonucunda tabloda istenen işlemler kullanılabilir hale gelmiştir.
+advanced\vendor\ozgurhaddur\kurs\src\controllers altında modülün Controller dosyası oluşturulmuştur.
+advanced\vendor\ozgurhaddur\kurs\src\views\kurs altında modülün Views dosyaları olan form,search,create,deleted,index,update,view dosyaları oluşturulmuştur.
+
 # Temel Modül Görselleri
 ##### *Temel Olarak Modül Tablosu*
 ![Kurs](https://user-images.githubusercontent.com/73740709/104808996-1bd0ab00-57fb-11eb-87ca-084da328093e.png)
