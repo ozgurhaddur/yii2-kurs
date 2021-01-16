@@ -38,7 +38,7 @@ http://advanced/backend/web/index.php?r=kurs/kurs/index adresinden modül anasay
 
 # Temel Modül Görselleri
 ##### *Temel Olarak Modül Tablosu*
-![kurs resmi](https://github.com/ozgurhaddur/yii2-kurs/blob/master/Kurs.png)
+![Kurs](https://user-images.githubusercontent.com/73740709/104808996-1bd0ab00-57fb-11eb-87ca-084da328093e.png)
 ##### *Modülde Kayıt İşlemi*
 ![kayıt resmi](https://github.com/ozgurhaddur/yii2-kurs/blob/master/Create%20Kurs.png)
 ##### *Modülde Deleted Tablosu*
