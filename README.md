@@ -37,8 +37,7 @@ Migration işlemini de bitirdikten sonra aşağıda verilen linki tıklayarak ya
 http://advanced/backend/web/index.php?r=kurs/kurs/index adresinden modül anasayfasına ulaşabilirsiniz.
 # Modülün Altyapısı
 ### *Migration İşlemi*:
-Modül içerisinde iki adet tablo vardır.Tablolardan biri oluşturulan kursun kullanıcı bilgilerini diğeri ise silinen kurs bilgilerinin yanı sıra kurs notlarını da tutmaktadır.Kurs ve deleted, tabloların isimleri olmak üzere beş adet değişkenleri vardır ve değişkenler aynıdır.
-![image](https://user-images.githubusercontent.com/73740709/104809633-afa47600-57ff-11eb-85c7-74328f761be8.png)
+Modül içerisinde iki adet tablo vardır.Tablolardan biri oluşturulan kursun kullanıcı bilgilerini diğeri ise silinen kurs bilgilerinin yanı sıra kurs notlarını da tutmaktadır.Kurs ve deleted, tabloların isimleri olmak üzere beş adet değişkenleri vardır ve değişkenler aynıdır.![image](https://user-images.githubusercontent.com/73740709/104809633-afa47600-57ff-11eb-85c7-74328f761be8.png)
 # Temel Modül Görselleri
 ##### *Temel Olarak Modül Tablosu*
 ![Kurs](https://user-images.githubusercontent.com/73740709/104808996-1bd0ab00-57fb-11eb-87ca-084da328093e.png)
