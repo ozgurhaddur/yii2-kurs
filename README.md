@@ -37,7 +37,9 @@ Migration işlemini de bitirdikten sonra aşağıda verilen linki tıklayarak ya
 http://advanced/backend/web/index.php?r=kurs/kurs/index adresinden modül anasayfasına ulaşabilirsiniz.
 
 # Temel Modül Görseli
-##### Temel olarak modül
+##### Temel olarak modül tablosu
 ![kurs resmi](https://github.com/ozgurhaddur/yii2-kurs/blob/master/Kurs.png)
 ##### Modülde kayıt işlemi
 ![kayıt resmi](https://github.com/ozgurhaddur/yii2-kurs/blob/master/Create%20Kurs.png)
+##### Modülde deleted tablosu
+![deleted resmi](https://github.com/ozgurhaddur/yii2-kurs/blob/master/Deleted.png)
