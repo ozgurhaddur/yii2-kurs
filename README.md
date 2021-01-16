@@ -1,7 +1,7 @@
 # yii2-kurs
 # Modülün Amacı
 Bir kurs platformunda alınacak ders notlarının kaydedilmesi hedeflenmektedir.Bu hedef doğrultusunda tablo üzerinde dolduracağanız bilgilerden sonra dilediğiniz işlemi gerçekleştirebilirsiniz.
-# Modül üzerinde yapılabilecek temel işlemler:
+# Modül Üzerinde Yapılabilecek Temel İşlemler
 Kurs kaydı oluşturabilirsiniz.
 
 Oluşturulan kurs kaydına kursun ders notunuzu ekleyebilirsiniz.
