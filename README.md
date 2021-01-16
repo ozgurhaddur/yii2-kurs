@@ -11,7 +11,7 @@ Oluşturduğunuz kurs kaydının ders notunu silebilirsiniz.
 Sildiğiniz ders notlarına erişebilmek için çöp kutusu platformu aracıılğıyla tekrar erişebilirsiniz.
 
 Main Page adlı anasayfada tablonun id kısmından kullanıcı ismine ve doğrudan alınan ders notunun içeriğine erişebilirsiniz.
-## Kurulum
+# Modül Kurulumu
 Vagrantı aktifleştirmek amacıyla ssh komutu aracılığıyla vagrant sanal makinesine bağlanınız.Ardından /var/www/advanced komutunu giriniz.
 
 `composer require --prefer-dist ozgurhaddur/yii2-kurs "dev-main"` komutunu girip modül kurulumuna başlayınız.
