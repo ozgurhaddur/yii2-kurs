@@ -35,3 +35,5 @@ Migration işlemini aktifleştirmek amacıyla ssh komutu aracılığıyla modül
 Migration işlemini de bitirdikten sonra aşağıda verilen linki tıklayarak yapılan kurs modülüne erişebilirsiniz.
 
 http://advanced/backend/web/index.php?r=kurs/kurs/index adresinden modül anasayfasına ulaşabilirsiniz.
+
+# Temel Modül Görseli
