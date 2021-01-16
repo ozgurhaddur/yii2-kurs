@@ -44,7 +44,6 @@ Modül içerisinde iki adet tablo vardır.Tablolardan biri oluşturulan kursun k
 ### *Gii İşlemi*
 
 Her tablo için bir model oluşturulmuştur.Create,read,update,delete gibi tablo işlemlerini sağlamak amacıyla oluşturulan modeller üzerinde *Model ve CRUD Generator* işlemleri uygulanmıştır.Bu işlemler sonucunda tabloda istenen işlemler kullanılabilir hale gelmiştir.
-
 advanced\vendor\ozgurhaddur\kurs\src\controllers altında modülün Controller dosyası oluşturulmuştur.
 advanced\vendor\ozgurhaddur\kurs\src\views\kurs altında modülün Views dosyaları olan form,search,create,deleted,index,update,view dosyaları oluşturulmuştur.
 
