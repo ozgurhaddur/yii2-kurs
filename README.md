@@ -20,7 +20,7 @@ Yii projeninizin altında advanced\backend\config\main.php dosyası içerisine a
 
  ```
  'modules' => [
-        'note' =>[
+        'kurs' =>[
             'class' => 'ozgurhaddur\kurs\Module'
           
         ]
@@ -34,7 +34,7 @@ Migration işlemini aktifleştirmek amacıyla ssh komutu aracılığıyla modül
 
 Migration işlemini de bitirdikten sonra aşağıda verilen linki tıklayarak yapılan kurs modülüne erişebilirsiniz.
 
-http://advanced/backend/web/index.php?r=note/kurs/index adresinden modül anasayfasına ulaşabilirsiniz.
+http://advanced/backend/web/index.php?r=kurs/kurs/index adresinden modül anasayfasına ulaşabilirsiniz.
 # Modülün Altyapısı
 ### *Migration İşlemi*
 Modül içerisinde iki adet tablo vardır.Tablolardan biri oluşturulan kursun kullanıcı bilgilerini diğeri ise silinen kurs bilgilerinin yanı sıra kurs notlarını da tutmaktadır.Kurs ve deleted, tabloların isimleri olmak üzere beş adet değişkenleri vardır ve değişkenler aynıdır.
