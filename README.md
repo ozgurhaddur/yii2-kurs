@@ -4,7 +4,7 @@ Bir kurs platformunda alınacak ders notlarının kaydedilmesi hedeflenmektedir.
 # Modül Üzerinde Yapılabilecek Temel İşlemler
 Kurs kaydı oluşturabilirsiniz.
 
-Oluşturulan kurs kaydına kursun ders notunuzu ekleyebilirsiniz.
+Oluşturulan kurs kaydına alacağınız ders notunu ekleyebilirsiniz.
 
 Oluşturduğunuz kurs kaydının ders notunu silebilirsiniz.
 
